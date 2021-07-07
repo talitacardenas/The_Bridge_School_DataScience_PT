@@ -261,7 +261,7 @@ TSWLatexianTemp*
 # standalone packages
 *.sta
 .Rproj.user
-*.zip
+#*.zip
 
 
 
