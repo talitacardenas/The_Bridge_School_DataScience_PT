@@ -370,6 +370,12 @@ venv.bak/
 # Excluir carpeta prácticas
 /revisar_07-python-avanzado
 
+# Excluir carpeta credenciales
+/content
+/creds
+
+# Excluir services_account
+thebridgept0521-00ccc9a47591.json
 
 # OSx files
 .DS_Store
