@@ -376,6 +376,7 @@ venv.bak/
 
 # Excluir services_account
 thebridgept0521-00ccc9a47591.json
+creds.txt
 
 # OSx files
 .DS_Store
