@@ -50,7 +50,7 @@ Please, complete the two steps analysis:
 
 Consider these three tables:
 
-![image-20210921075909743](C:\Users\mrusso\AppData\Roaming\Typora\typora-user-images\image-20210921075909743.png)
+![image-20210921075909743](../../999_images/image-20210921075909743.png)
 
 - PK means primary key, FK stands for foreign key
 - A sale could have multiple sale_entries, each sale_entry only has a journey.
