@@ -1,0 +1,11 @@
+q_task3 = '''
+                SELECT created,
+                EXTRACT(MONTH FROM created) AS created_month,
+                round(sum(booking)::numeric, 2) as sum_booking,
+                industry_code
+                FROM orders
+                JOIN merchants
+                ON orders.merchant_uuid = merchants.uuid
+                group by created, merchants.industry_code,booking
+                order by created, booking asc
+            '''
